@@ -4,9 +4,9 @@
 In this project, prediction models are made to find out if a client will be delinquent in relation to different variables such as the amount of the loan, the term, among others. This helps us to anticipate if a client will default on payment and thus take action in this regard.
 Code and PDF:
 
-> [Pyhton Code]()
+> [Pyhton Code](https://github.com/erickgt00/proyectos/blob/main/Credit%20Default%20ML/ARTICULO.ipynb)
 
-> [PDF: Predicción de la Morosidad de Clientes con Créditos Bancarios Utilizando Aprendizaje Automático]()
+> [PDF: Predicción de la Morosidad de Clientes con Créditos Bancarios Utilizando Aprendizaje Automático](https://github.com/erickgt00/proyectos/blob/main/Credit%20Default%20ML/ANALISIS%20DE%20CREDITO.pdf)
 
 
 Machine Learning methods:
